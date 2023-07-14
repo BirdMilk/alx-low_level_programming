@@ -9,8 +9,8 @@ int main(void)
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	i = 1;
-	while (i <= 26)
+	i = 0;
+	while (i < 26)
 	{
 		putchar(alp[i]);
 		i++;
