@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /**
  * main - This is a program that checks whether a value is negative or posotive
